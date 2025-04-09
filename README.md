@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Keryn's Repo! I'm brand new to GitHub and learning as I go!
 
 <!--
 **kerynkey/kerynkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
